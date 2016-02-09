@@ -1,0 +1,51 @@
+xvi M. MANILH
+
+All methods of this sort, Manilius' among them, are rejected by Ptolemy
+tetr. p. 12 no less cavalierly than Manilius himself rejects what he calls the
+‘uulgata ratio' at ΙΙΙ ‘2182 τῇ κοινῇ πραγματείᾳ καὶ τῇ πρὸσ ὁμαλὰο· ὑπεροχάσ
+τῶν ἀναφορῶν συνισταμένῃ, μηδὲ κατὰ μικρὸν ἐγγὺσ οὔσῃ τῆσ ἁληθεὶασ. In synt.
+11 7 Heib. pp. 123 sq. Ptolemy calculates the ascensions of the signs for the
+latitude of which Manilius speaks, where the longest day has 14ss hours; ancl
+it appears that Manilius is wrong in every particular. Aries and Pisces rise
+not with 40 stades or ‘20² but with 19⁰ 12* 3 Virgo and Libra not with 80 stades
+or 40⁰ but with 36Ω 28’; Leo and Scorpius, instead of rising quicker than
+Virgo and Libra, rise slower, with 37ο 2'; the increase from one sign’s
+ascension to the next is never 8 stades or 4⁰, but always either less or more,
+and the rate of increase is not even equable throughout all the parts of a sign.
+
+But not only is Manilius thus at odds with astronomy : he is at odds with
+himself. In verses 385-442 he professes to give a general rule by which the
+ascensions may be ascertained for any latitude. Apply that general rule
+to this particular case, and it will be found to give results which are not the
+result-s here stated by its author. By the general rule, in a latitude where the
+longest day has 14} hours, the ascension of Aries will not be 40 stades but 39&
+not 1 h. ‘20 m. but 1 h. 18 m, 20 s. 3 the ascension of Libra will not be 80 stades
+but 803, not 211. 40 m. but 2h. 41 m. 40 s. ; and no ascension will differ by
+
+less than 20 seconds or ὲ of a stade from the figures given in the table above.
+
+But it is now time to use this table for the discovery of a horo-
+scope in the latitude for which it is designed, and to compare the
+result With that obtained on p. xii by the disparaged and discarded
+‘ uulgata ratio ⁹. Let the moment of birth, as before, be noon on
+March 21. Count the equinoctial hours which have passed and
+the stades of the equator which have risen since sunrise : the hours
+are 6 and the stades are 180. The sun is at the 1st point of Aries :
+measure off thence on the zodiac a length which shall correspond
+to these figures. Aries Taurus and Gemini are together equivalent
+to 144 stades or 4h. 48 m. : the residue, 36 stades or 1 h. 12 m.,
+signifies so much of Cancer as rises with that portion of the equator
+or in that space of time: ἐξ, between {g and ἐξ. The horoscope
+therefore is in the 171¹* degree of Oancer3 and the ‘ uulgata ratio ³,
+if Manilius is right, was wrong by more than half a sign.
+
+301—384 The table of ascensions given in verses 275-300 is applicable
+
+to the latitude in which the longest day or night is of
+1432» hours and the shortest of 9}— But days and nights and the
+inclination of the zodiac to the horizon are not the same all the
+world over. At the terrestrial equator each sign of the zodiac
+takes (roughly speaking) 2 hours to rise‚ and all the year round
+the night is equal to the day. As we move northward, the zodiac‚
+with the celestial equator, is tilted to the south, and day and night
+

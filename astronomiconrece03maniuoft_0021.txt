@@ -1,0 +1,46 @@
+ASTRONOMICON III xvii
+
+grow ever more and more unequaL till the southern signs one after
+another touch the horizon and disappear below it, and the sun,
+if he is travelling through them, is lost to sight for days and months
+at a time. Lastly‚ when we reach the pole, he is invisible for half
+the year continuously‚ and continuously visible for the other half,
+because the signs from Aries to Virgo are always above the horizon,
+and the signs from Libra to Pisces beneath it. It is clear that in
+these changing circumstances our table of ascensions will no longer
+
+correspond to the facts of nature, and may be left behind us at
+Rhodes.
+
+385—442 We want therefore a general rule which will enable us
+
+in any latitude to determine the time occupied by a
+sign in rising; and that rule is this. Count up the hours of the
+longest day and divide the sum by 6 ; the quotient will be the time
+occupied in rising by Leo. Count up likewise, and likewise divide
+by 6, the hours of the shortest night: the quotient will be the
+time occupied in rising by Taurus. Subtract the lesser of the
+two quotients from the greater and divide the remainder by 3.
+Add this third quotient to the rising-time of Taurus, and you
+have the rising-time of Gemini3 add it again, and you have the
+rising-time of Cancer ; add it a third time, and of course you have
+the rising-time, already ascertained‚ of Leo. Make the same
+addition to Leo’s rising-time, and you have Virgo's; and Virgo’s is
+also Libra’s. From Libra’s subtract the same amount, and you
+have Scorpius’ ; from Scorpius’, and you have Sagittarius' ; from
+Sagittarius'‚ and you have Capricorn’s; from Capricorn's, and
+you have Aquarius', which is equal to Taurus’; from Aquarius'‚
+and you have Pisces', to which Aries’ is equal. A good deal of
+this,—that Libra takes the same time to rise as Virgo, that Aries
+takes the same time as Pisces and takes less time than Taurus,—
+Manilius has left the reader to infer for himself. Such then is the
+scale of hours : now for the scale of degrees or rather stades. The
+phraseology of what follows is elaborately made to differ from
+that which was used above, but the arithmetica] operations are
+the same. The stades are 720 : from this total subtract a number
+which is to 7 20 as the hours of the shortest night are to 24 ε divide
+the remainder (equivalent to the longest day) by 6, and the quotient
+will be the rising-time of Leo; divide the subtrahend by 6, and
+the quotient will be the rising-time of Taurus. Subtract the latter
+quotient from the former and divide the remainder by 3 ε add one
+

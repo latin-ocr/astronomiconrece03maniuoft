@@ -1,0 +1,45 @@
+ASTRONOMIOON III xix
+
+If our instructor has an alternative rule for finding the horoscope,
+and 116 has, now is the time to give it. But no: we must wait
+till verse 483. First we must listen while he sets forth a method
+of discovering, in any latitude, the rate at which daylight increases
+between midwinter and midsummer. The information, if true,
+is interesting and even, for some purposes, useful; but not for
+the purpose of determining the ascension of the signs or ascertaining
+the horoscope. No matter: Manilius cannot forgo the pleasure
+01 dressing up more arithmetic in more figures and tropes. ‘ quod
+uno uerbo potuit ⁹, says Scaliger, ‘pluribus ambagibus maluit, ad
+fertilitatem ingenii ostentandam '. Inappropriate as the paragraph
+is to its place, there is yet no place in the book to which it would
+be less inappropriate; and in form and structure it has much
+affinity with the paragraph preceding, which apparently suggested
+it to its facile and frivolous author.
+
+To discover the monthly increase of daylight between the winter
+solstice and thc vernal equinox, take the number of hours by which
+the shortest day is less than 12, 01 the longest night is more, and
+divide it by 6: then ὲ will be the increase of daylight in the first
+month after the solstice, ξ will be the further increase in the second
+month, and ἐξ will be the yet further increase in the third. It
+is here assumed by Manilius, as by Geminus isag. 6 42 παραύξηο-ισ
+δὲ ἡμερῶν γίνεται ἀπὸ Αἷγόκερω πρώτησ· μοίρασ· μέχρι Διδύμων
+μοίρασ τριακόστησ, that the solstices and equinoxes take place
+when the sun first enters the solstitia] or equinoctial signs3 so
+that the three months will be those which the sun spends in
+passing through Capricorn‚ Aquarius, and Pisces. In the latitude
+of Rome, where the shortest day has 9 hours and the longest
+night 15, the difference between either of these and the equinoctial
+day or night of 12 hours is 3 hours: to Capricorn therefore will
+be allotted half-an-hour‚ to Aquarius an hour, to Pisces an hour
+and a half. But of course the increase will be cumulative: the
+hour added by Aquarius to the half-hour of Capricorn will make
+the day an hour and a half longer than at midwinter‚ and the
+hour and a half superadded by Pisces will make it three
+hours longer than at midwinter and will raise its sum of
+hours to 12.. To this number Aries will add as much as Pisces
+added, and raise it to 13} 3 Taurus will add as much as Aquarius,
+and raise it to 14} 3 Gemini as much as capricorn, and raise it to
+15 hours. Thence it will descend by corresponding stages from
+Cancer to Sagittarius. The increase or decrease is least in the
+

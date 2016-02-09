@@ -1,0 +1,46 @@
+xii M. MANILII
+
+Empiricus πρὸο- ἀστρ. 50-85 pronounces impossible, is allowed by
+Manilius to be extremely difficult, though of the many difficulties
+enumerated by Sextus he mentions only one, the velocity with which
+the heaven revolves. There is indeed in common use, he says, a
+calculation which professes to surmount this obstacle. Note (by the
+sundial or otherwise) the moment of birth, count the time which at
+that moment has elapsed since sunrise‚ and translate this time into
+degrees of the zodiac at the rate of 1 sign (30 degrees) to every 2
+hours: hours, that is, of the natural day, each of which is ᾖ of the
+time between sunrise and sunset. Measure off this number of degrees
+along the zodiac, starting from the point occupied by the Sun and
+proceeding in the order of the signs, that is leftward, eastward,
+counterclockwise. The point of the zodiac where the number ter-
+minates will be that which was rising at the moment of birth. For
+example : let the moment of birth be noon on March 21. That is the
+end of the fin] hour after sunrise, and 6 hours are equivalent to 3
+signs. The sun is at the lSt point of Aries : measure off thence on the
+zodiac the 3 signs Aries Taurus and Gemini, and the horoscope will
+be found at the 1St point of the next sign Cancer.
+
+This method is based on the assumption that every sign of the
+zodiac occupies in rising 2 hours of the natural day, ὲ of the time
+between sunrise and sunset. But that assumption is false. The
+zodiac is oblique, and consequently different signs make different
+angles with the eastern horizon. Taurus for example rises at an
+inclination nearer the horizontal than Cancer's, Virgo at an inclina·
+tion nearer the perpendicular 3 the 30 degrees of Taurus therefore
+take less time to rise than the 30 degrees of Cancer, the 30 degrees
+of Virgo take more. Now on a day of the year, say April l, which
+embraces between sunrise and sunset the risings both of Taurus
+and of Virgo, if Taurus takes 2 hours to rise, Virgo must take more ;
+if Virgo takes 2 hours, Taurus must take less. And the fact is that
+neither takes 2 hours.
+
+But not only is the assumption of equal ascensions false: it is
+also sels-contradictory. An hour, 5¹5 of the natural day, is not of the
+same length all the year round ε it is long when the days are long and
+short when they are short. If then a sign occupies in rising 2 of the
+long hours of a summer’s day, it must occupy more than 2 of the
+shorter hours of a day in spring or autumn or winter. Sagittarius
+for instance rises between sunrise and sunset both in July and in
+October, and if it takes 2 J uly hours to rise‚ it must take more than
+2 October hours. And what of the other 5 signs which also rise
+
